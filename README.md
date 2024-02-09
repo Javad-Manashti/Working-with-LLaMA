@@ -1,7 +1,7 @@
 
 # Working with LLaMa Course Repository
 
-This repository contains the course materials for the "Working with LLaMa" course designed and created by Javad Manashti.
+A repository of course materials created and designed by Javad Manashti for the DataCamp course "Working with LLaMa".
 
 ## Course Outline
 
@@ -13,4 +13,4 @@ A screencast demonstrating a lesson from the course can be accessed [here](https
 
 ## Author
 
-This course has been developed by Javad Manashti, aiming to provide comprehensive insights into working with large language models (LLMs) and their applications.
+This course has been developed by Javad Manashti, aiming to provide comprehensive insights into working with large language models (LLMs) and their applications. This content was provided for DataCamp.
