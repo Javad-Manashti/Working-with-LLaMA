@@ -1,7 +1,7 @@
 
 # Working with LLaMa Course Repository
 
-A repository of course materials created and designed by Javad Manashti for the DataCamp course "Working with LLaMa".
+A repository of course materials created and designed for the DataCamp course "Working with LLaMa".
 
 ## Course Outline
 
